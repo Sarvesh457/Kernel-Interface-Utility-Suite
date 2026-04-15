@@ -1,8 +1,5 @@
 # Kernel-Interface-Utility-Suite
 
-Linux Command Mimic Project
-📌 Overview
-
 This project is a Linux Command Mimic Tool developed to simulate basic Linux terminal commands using a custom implementation. It helps in understanding how Linux commands work internally and improves knowledge of system programming and OS concepts.
 
 🚀 Features
